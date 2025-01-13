@@ -91,6 +91,25 @@ const Navbar = () => {
           <li>
             <a href="#contact">Contact</a>
           </li>
+
+          <div
+            className="ml-5 flex justify-center"
+            onClick={() => themeContext.toggleTheme()}
+          >
+            {themeContext.theme === "dark" ? (
+              <CiBrightnessDown
+                className="icon"
+                style={{ cursor: "pointer" }}
+                size={35}
+              />
+            ) : (
+              <MdBrightness2
+                className="icon"
+                style={{ cursor: "pointer" }}
+                size={25}
+              />
+            )}
+          </div>
         </ul>
       </div>
     </nav>

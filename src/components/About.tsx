@@ -54,7 +54,7 @@ const About = () => {
                         <li>NextJS</li>
                       </ul>
                       <ul className="ml-10">
-                        <li>Spring Boot</li>
+                        <li>SpringBoot</li>
                         <li>NodeJS</li>
                         <li>MongoDB</li>
                         <li>MySQL</li>
