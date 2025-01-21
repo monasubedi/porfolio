@@ -69,7 +69,7 @@ const About = () => {
                   onClick={() => onTabChange("certifications")}
                   data-tab="certifications"
                 >
-                  Certifications
+                  Certificates
                 </button>
                 <div id="tab2" className="tab-pane">
                   {tab === "certifications" && (
