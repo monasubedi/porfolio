@@ -11,7 +11,7 @@ const Hero = () => {
       </h1>
       <p className="info">
         I am a frontend developer from Maharishi International University, USA
-        with over 3 years of experience in React and React Native developing
+        with 4 years of experience in React and React Native developing
         eCommerce websites and mobile applications for one of the National Banks
         of Myanmar (AYA) and travel agency company (FLYMYA).
       </p>

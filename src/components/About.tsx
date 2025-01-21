@@ -23,7 +23,7 @@ const About = () => {
         <div className="flex flex-col gap-10">
           <div className="flex flex-col gap-5">
             <p className="w-full xs:text-lg">
-              I am an experienced Frontend Developer with 3+ years of
+              I am an experienced Frontend Developer with 4 years of
               professional experience in the field. Throughout my career, I have
               had the privilege of collaborating with prestigeious
               organizations, contributing to their success and growth.
